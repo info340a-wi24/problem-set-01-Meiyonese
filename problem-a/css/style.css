@@ -1,0 +1,43 @@
+
+h1 {
+    color: rgb(204, 28, 8);
+    font-size: 3em;
+    background-color: black;
+    padding: 50px 10px 25px 100px;
+    
+}
+
+h2 {
+    color: salmon;
+    padding: 25px 10px 25px 100px;
+
+}
+
+p {
+    color: orangered;
+    line-height: 1.5;
+    padding: 0px 100px 25px 100px;
+}
+
+img {
+    max-height: 400px;
+    padding: 25px 10px 25px 100px;
+}
+
+.important {
+    color: lavenderblush;
+}
+
+ul {
+    padding-left: 115px;
+}
+
+li {
+    color: salmon;
+}
+
+* {
+    background-color: black;
+    font-size: 16px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
